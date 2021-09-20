@@ -1,5 +1,5 @@
 # Repositório do Desafio de projeto sobre Git/GitHub da DIO
-Repositórioi criado para o Desafio de Projoeto.
+  Repositório criado em decorencia do Desafio de Projoeto " Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso" do Bootcamps Eduzz Fullstack Developer na DIO.
 
 
 ## Links Úteis
